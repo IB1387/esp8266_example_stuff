@@ -39,5 +39,6 @@ while True:
   print('Humidity: ', hum)
   print('Pressure: ', pres)
 
-  sleep(5)
+  sleep(2)
   
+
